@@ -1,4 +1,4 @@
-package FinalAndvar;
+package FinalAndVar;
 public class VarTest {
     public static void main(String[] args) {
         var s = new StringBuilder();
