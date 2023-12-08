@@ -1,6 +1,6 @@
 package VariablesAndDataTypes;
 
-public class IntClass {
+public class IntType {
     public static void main(String[] args) {
         // 对于整型类型，Java只定义了带符号的整型，因此，最高位的bit表示符号位（0表示正数，1表示负数）。各种整型能表示的最大范围如下：
         // byte：-128 ~ 127
@@ -24,6 +24,7 @@ public class IntClass {
         System.out.println(i5);
         System.out.println("long");
         System.out.println(n1);
+        System.out.println(n2);
         System.out.println("long");
     }
 }
